@@ -9,8 +9,25 @@
 - 📚 At the moment, I'm studying Web Development, DSA, and C++ <br/>
 - 🔖 I'm learning new technologies and brushing up on my old ones :) <br/>
 - 🔎 I'm willing to work on intriguing projects with others! <br/>
+- ⚡ Fun fact: I love to draw and play guitar <br/>
+
 
 <!-----Contribution figures------>
+
+### Connect with me:
+
+[<img align="left" alt="pallavi-singh-047629208 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="_.pall._.avi._ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+
+
+
+
+
+
+
 
 
 
