@@ -14,12 +14,6 @@
 
 <!-----Contribution figures------>
 
-### Connect with me:
-
-[<img align="left" alt="pallavi-singh-047629208 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="_.pall._.avi._ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 
 
